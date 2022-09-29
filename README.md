@@ -5,7 +5,7 @@ New Dads is a fictional club invented to help men cope with the transition into 
 No installation required.
 
 # Usage
-This is a project for myself, practicing CSS flexbox layout and responsiveness. 
+This is a project for myself, practicing CSS flexbox and responsiveness. 
 
 # Contributing 
 This is an exercise for myself as opposed to a open sourced project. 
