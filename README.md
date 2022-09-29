@@ -1,5 +1,5 @@
 # New Dads
-New Dads is a fictional club invented to help men cope with the transition into Fatherhood. It includes meet-ups, books, links to social media accounts and forms to fill in. 
+New Dads is a fictional club invented to help men cope with the transition into Fatherhood. It includes meet-ups, books, links to social media accounts and forms. 
 
 # Installation 
 No installation required.
