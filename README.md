@@ -1,7 +1,7 @@
 # Michael Ross Portfolio
 ### Student at MIT xPro
 
-# <u>My Projects</ul>
+# Projects
 ## My Eyes Repo
 <a href="https://rosshoven.github.io/Eye-Movements/">Eyes Following the Cursor</a>
 
