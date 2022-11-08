@@ -1,17 +1,25 @@
-# New Dads
-New Dads is a fictional club invented to help men cope with the transition into Fatherhood. It includes meet-ups, books, links to social media accounts and forms. 
+# Michael Ross Portfolio
+## Student at MIT xPro
 
-# Installation 
-No installation required.
-
-# Usage
-This is a project for myself, practicing CSS flexbox and responsiveness. 
-
-# Contributing 
-This is an exercise for myself as opposed to a open sourced project. 
-
-# License
-©2022DadaDesigns
-
+# <u>My Projects</ul>
 ## My Eyes Repo
 <a href="https://rosshoven.github.io/Eye-Movements/">Eyes Following the Cursor</a>
+
+# Installation 
+None.
+
+# Usage
+### This is my portfolio project for Module 1 at MIT xPro. 
+
+# Contributing 
+None.
+
+# Ideas for the future
+<ul> 
+  <li>More web development projects to display</li>
+  <li>More dynamic JS</li>
+</ul>
+
+# License
+MIT xPro 
+©2022DadaDesigns
