@@ -8,10 +8,10 @@
 # Usage
 ### Portfolio project for Module 1 at MIT xPro. 
 
-## Contributing 
+# Contributing 
 ### None.
 
-## Installation 
+# Installation 
 ### None.
 
 # Ideas for the future
