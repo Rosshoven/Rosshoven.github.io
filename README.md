@@ -1,5 +1,5 @@
 # Michael Ross Portfolio
-## Student at MIT xPro
+### Student at MIT xPro
 
 # <u>My Projects</ul>
 ## My Eyes Repo
@@ -8,11 +8,11 @@
 # Usage
 ### Portfolio project for Module 1 at MIT xPro. 
 
-# Contributing 
-None.
+## Contributing 
+### None.
 
-# Installation 
-None.
+## Installation 
+### None.
 
 # Ideas for the future
 <ul> 
