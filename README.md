@@ -2,10 +2,9 @@
 ### Student at MIT xPro
 
 # Projects
-<li>## My Eyes Repo</li>
+## My Eyes Repo
   <li><a href="https://rosshoven.github.io/Eye-Movements/" target="_blank">Eyes Following the Cursor </a></li>
   
-
 # Usage
 ### Portfolio project for Module 1 at MIT xPro. 
 
