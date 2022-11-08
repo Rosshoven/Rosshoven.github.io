@@ -3,7 +3,8 @@
 
 # Projects
 ## My Eyes Repo
-<a href="https://rosshoven.github.io/Eye-Movements/" target="_blank">Eyes Following the Cursor </a>
+  <li><a href="https://rosshoven.github.io/Eye-Movements/" target="_blank">Eyes Following the Cursor </a></li>
+  
 
 # Usage
 ### Portfolio project for Module 1 at MIT xPro. 
