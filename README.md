@@ -4,7 +4,7 @@
 
 # Projects
 ## My Eyes Repo
-  <li><a href="https://rosshoven.github.io/Eye-Movements/" target="_blank">Eyes Following the Cursor </a></li>
+  <li><a href="https://rosshoven.github.io/Eye-Movements/" target="_blank">Eyes Following the Cursor</a></li>
   
 # Usage
  
