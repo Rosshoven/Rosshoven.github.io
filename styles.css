@@ -1,26 +1,41 @@
-/* 
-.project-image {
-    width: 100px;
-    height: 10px;
-} */
-
-/* #view-button-1 {
-    text-decoration: none;
-    background-color: black;
-    color: yellow;
-} */
+* {
+    box-sizing: border-box;
+    
+}
 
 .container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: 1fr;
-    flex-grow: 1;
+    /* flex-grow: 1; */
     margin: 2%;
     margin-left: auto;
     margin-right:  auto;
+    width: 100%;
 }
 
 .card-image-top {
-    width: 20px;
+    width: 20%;
     height: auto;
+}
+
+#navbar {color: brown;
+    
+}
+.container-fluid {
+    background-image: url(./Images/Images/Background-image-1.jpg);
+    /* margin: 0%; */
+    position: fixed;
+    z-index: 1;
+    padding: 2%;
+    margin-top: 5%;
+    ;
+}
+
+.navbar-toggler-icon {
+    color: brown;
+}
+
+a {
+    color: brown;
 }
