@@ -214,5 +214,6 @@
   img {
     border: solid 2px #0900ac;
     box-shadow: 5px;
+    border-radius: 5%;
   }
 
