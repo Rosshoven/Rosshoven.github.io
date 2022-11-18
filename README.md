@@ -5,17 +5,17 @@
 # Projects
 
 ## Pacmen Repo
- <li><a href="https://rosshoven.github.io/Pacmen-Exercise/" target="_blank">Pacmen Exercise</a></li>
+ <li><a href="https://rosshoven.github.io/Pacmen-Exercise/">Pacmen Exercise</a></li>
 
 ## My Eyes Repo
-  <li><a href="https://rosshoven.github.io/Eye-Movements/" target="_blank">Eyes Following the Cursor</a></li>
+  <li><a href="https://rosshoven.github.io/Eye-Movements/">Eyes Following the Cursor</a></li>
   
 ## Real Time Bus Tracker
 ### API key required to make this page function. Here is skeleton of what it looks like.
- <li><a href="https://rosshoven.github.io/Real-Time-Bus-Tracker" target="_blank">Real Time Bus Tracker</a></li>
+ <li><a href="https://rosshoven.github.io/Real-Time-Bus-Tracker">Real Time Bus Tracker</a></li>
   
 # Usage
-## <a href="https://rosshoven.github.io/" target="blank">Click here to view page</a>
+## <a href="https://rosshoven.github.io/">Click here to view page</a>
 
 # Contributing 
 ### None
@@ -27,5 +27,5 @@
 </ul>
 
 # License
-MIT xPro 
-©2022DadaDesigns
+## MIT xPro 
+### ©2022DadaDesigns
