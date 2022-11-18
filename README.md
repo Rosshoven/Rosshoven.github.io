@@ -5,13 +5,13 @@
 # Projects
 
 ## Pacmen Repo
- <li><a href="https://rosshoven.github.io/Pacmen-Exercise/" target="_blank">Eyes Following the Cursor</a></li>
+ <li><a href="https://rosshoven.github.io/Pacmen-Exercise/" target="_blank">Pacmen Exercise</a></li>
 
 ## My Eyes Repo
   <li><a href="https://rosshoven.github.io/Eye-Movements/" target="_blank">Eyes Following the Cursor</a></li>
   
 ## Real Time Bus Tracker
- <li><a href="https://rosshoven.github.io/Pacmen-Exercise/" target="_blank">Eyes Following the Cursor</a></li>
+ <li><a href="https://rosshoven.github.io/Real-Time-Bus-Tracker" target="_blank">Real Time Bus Tracker</a></li>
   
 # Usage
 ## Open index.html file 
