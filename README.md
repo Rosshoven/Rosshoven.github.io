@@ -1,6 +1,5 @@
-# Michael Ross Portfolio
+# Michael Ross Portfolio Page
 ## Student at MIT xPro
-### Portfolio project for Module 1 at MIT xPro.
 
 # Projects
 
