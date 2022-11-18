@@ -15,7 +15,7 @@
  <li><a href="https://rosshoven.github.io/Real-Time-Bus-Tracker" target="_blank">Real Time Bus Tracker</a></li>
   
 # Usage
-## Open index.html file 
+## <button href="https://rosshoven.github.io/">Click to view</button>
 
 # Contributing 
 ### None
