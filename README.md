@@ -3,10 +3,10 @@
 
 # Projects
 
-## Pacmen Repo
- <li><a href="https://rosshoven.github.io/Pacmen-Exercise/">Pacmen Exercise</a></li>
+## Pacmen
+ <li><a href="https://rosshoven.github.io/Pacmen-Exercise/">Pacmen</a></li>
 
-## My Eyes Repo
+## Eye Movements
   <li><a href="https://rosshoven.github.io/Eye-Movements/">Eyes Following the Cursor</a></li>
   
 ## Real Time Bus Tracker
