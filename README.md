@@ -27,5 +27,4 @@
 </ul>
 
 # License
-## MIT xPro 
-### ©2022DadaDesigns
+## ©2022DadaDesigns
