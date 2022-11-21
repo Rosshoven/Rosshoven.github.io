@@ -79,7 +79,7 @@
    padding-bottom: 2.5%;
    background-color: #ddd;
    border: 1px #0900ac solid;
-   border-top-left-radius: 1%;
+   border-top-left-radius: 1.5%;
    border-top-right-radius: 1.5%;
    opacity: .9;
    text-align: center;
@@ -95,25 +95,12 @@
    opacity: .9;
    margin: 0% 5% auto 5%;
    border: 1px #0900ac solid;
-   /* border-bottom-left-radius: 2%;
-   border-bottom-right-radius: 2%; */
+   border-bottom-left-radius: 2%;
+   border-bottom-right-radius: 2%;
    /* text-indent: 1%; */
    font-weight: 400;
    font-family: 'Libre Franklin', sans-serif;
    line-height: 1.5rem;
-}
-
-#par2 {
-  grid-area: 5 / 2 / span 1 / span 3;
-  font-weight: 400;
-  font-family: 'Libre Franklin', sans-serif;
-  line-height: 1.5rem;
-  text-align: justify;
-  padding: 1% 2% 2% 2%;
-  background-color: #ddd;
-  opacity: .9;
-  margin: 0% 5% auto 5%;
-  border: 1px #0900ac solid;
 }
 
 .link {
@@ -250,7 +237,7 @@
 
 
  /* MEDIA QUERIES */
- 
+
  @media only screen and (max-width: 975px) {
   .container {
       display: flex;
