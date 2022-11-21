@@ -13,7 +13,7 @@
   <li><a href="https://rosshoven.github.io/Eye-Movements/">Eyes Following the Cursor</a></li>
 
 ## Real Time Bus Tracker
-### API key required to make this page function. Here is skeleton of what it looks like.
+### An API key is required to make this map-page function. Here the basic layout of what it looks like.
  <li><a href="https://rosshoven.github.io/Real-Time-Bus-Tracker/">Real Time Bus Tracker</a></li>
 
 # Contributing 
