@@ -11,7 +11,7 @@
   
 ## Real Time Bus Tracker
 ### API key required to make this page function. Here is skeleton of what it looks like.
- <li><a href="https://rosshoven.github.io/Real-Time-Bus-Tracker/index.html">Real Time Bus Tracker</a></li>
+ <li><a href="https://rosshoven.github.io/Real-Time-Bus-Tracker/">Real Time Bus Tracker</a></li>
   
 # Usage
 ## <a href="https://rosshoven.github.io/">Click here to view page</a>
