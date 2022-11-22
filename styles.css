@@ -8,7 +8,6 @@
 
 
  /* NAVBAR */
-
 /* Add a color to the Home link */
 .topnav a.home {
   background-color: #0900ac;
@@ -35,7 +34,7 @@
  /* Change the color of links on hover */
  .topnav a:hover {
    /* background-color: rgb(95, 94, 94); */
-   background-color: #0900ac;;
+   background-color: #0900ac;
    color: gainsboro;
    border-radius: 25%;
  }
@@ -50,7 +49,6 @@
 
 
 /* BANNER/BIO */
-
  /* Profile pic and Bio */
  .container {
    width: 100%;
@@ -116,20 +114,15 @@
 
 
 /* HOLY GRAIL */
-
 .wrapper {
    width: 100%;
-   padding-top: 1%;
-   padding-bottom: 1%;
-   padding-left: 1%;
-   padding-right: 1%;
+   padding: 1% 1% 1% 1%;
    display: grid;
    grid-template-columns: .5fr 1.5fr .5fr;
    grid-template-rows: repeat(5, 100px);
-   gap: 5px;
+   gap: .4%;
    /* height: 90vh; */
    text-align: center;
-   gap: 5px;
    background-color: #0900ac;
 }
 
@@ -138,45 +131,92 @@
    grid-row: 1 / 2;
    grid-column: 2 / 3;
    border-style: solid;
-   background: silver;
-   font-size: 2em;
+   background-color: antiquewhite;
+}
+
+.wrapper h1 {
+  font-size: 2.2rem;
+}
+
+#git-logo {
+  font-size: xx-large;
+  color: #0900ac;
+}
+
+#header p {
+  font-size: .8rem;
+  font-family: 'Libre Franklin', sans-serif;
 }
 
 #left {
-   grid-row: 1 / 6;
+   grid-row: 1 / 5;
    grid-column: 1 / 2;
-   border-style: solid;
-   background: silver;
    font-size: 2em;
+   border-top-left-radius: 20%;
+   border-bottom-left-radius: 20%;
+}
+
+.column {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   flex-direction: column;
+   background-color:  antiquewhite;
+}
+.logo {
+  width: 45%;
+  background-color: white;
+  padding: 5%;
+  margin-top: 4%;
+  margin-bottom: 4%;
+  border: solid 2px #0900ac;
 }
 
 #video {
    grid-row: 2 / 5;
    grid-column: 2 / 3;
-   border-style: solid;
-   background: silver;
+   border: dashed 1px antiquewhite;
    font-size: 2em;
 }
 
 #right {
-   grid-row: 1 / 6;
+   grid-row: 1 / 5;
    grid-column: 3 / 4;
    border-style: solid;
-   background: silver;
    font-size: 2em;
+   border-top-right-radius: 20%;
+   border-bottom-right-radius: 20%;
 }
 
 #footer {
    grid-row: 5 / 6;
-   grid-column: 2 / 3;
+   grid-column: 1 / 4;
    border-style: solid;
-   background: silver;
+   background-color: #0900ac;;
    font-size: 2em;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   /* background-image: url(./Images/Images/Background-image-1.jpg); */
+   border: solid 1px antiquewhite;
+   
+}
+
+#footer p {
+  padding-left: 4%;
+  padding-right: 4%;
+  width: 100%;
+  color: cornsilk;
+  font-size: .9rem;
+}
+
+div p a {
+  font-size: .9rem;
+  color: rgb(0, 98, 255);
 }
 
 
-/* PROJECTS */
-
+  /* PROJECTS */
 #projects {
    /* background-color: rgb(248, 239, 228); */
    color: rgb(59, 59, 59);
@@ -240,7 +280,6 @@
 
 
  /* MEDIA QUERIES */
-
  @media only screen and (max-width: 975px) {
   .container {
       display: flex;
@@ -248,25 +287,23 @@
       padding-top: 15%;
       margin-left: auto;
       margin-right: auto;
-  /* border-radius: 7%;
-  display: flex;
-  align-items: center;
-  justify-content: end;
-  width: 100%;
-  height: 10%;
-  opacity: .8; */
   }
 
   .container img {
-      margin-left: auto;
-      margin-right: auto;
+     margin: 2% 5% 2% 5%;
+      grid-area: 2 / 1 / 7 / 2;
   }
 
   .container h1 {
       padding: 1% 2% 1% 2%;
+      grid-area: 1 / 1 / 7 / 2;
   }
 
   button {
     margin-bottom: 10%;
+  }
+
+  #header p {
+    font-size: .6rem;
   }
 }
