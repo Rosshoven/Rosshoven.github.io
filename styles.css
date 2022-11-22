@@ -162,6 +162,7 @@
    justify-content: space-between;
    flex-direction: column;
    background-color:  antiquewhite;
+   overflow: auto;
 }
 .logo {
   width: 45%;
@@ -191,15 +192,12 @@
 #footer {
    grid-row: 5 / 6;
    grid-column: 1 / 4;
-   border-style: solid;
    background-color: #0900ac;;
    font-size: 2em;
    display: flex;
    justify-content: space-between;
    align-items: center;
-   /* background-image: url(./Images/Images/Background-image-1.jpg); */
-   border: solid 1px antiquewhite;
-   
+   border: solid .5px antiquewhite;
 }
 
 #footer p {
