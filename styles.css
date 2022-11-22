@@ -197,7 +197,7 @@
    display: flex;
    justify-content: space-between;
    align-items: center;
-   border: solid .5px antiquewhite;
+   /* border: solid .5px antiquewhite; */
 }
 
 #footer p {
