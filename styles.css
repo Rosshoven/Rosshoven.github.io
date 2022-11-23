@@ -276,6 +276,29 @@ div p a {
    line-height: 1.3rem;
  }
 
+ 
+ /* BOOKS */
+.book {
+  width: 100%;
+  height: 60%;
+}
+
+.col, 
+.card,
+.row
+.books {
+  background-image: url(./Images/Images/Background-image-1.jpg);
+  background-repeat: repeat;
+  padding-top: 8%;
+  border: solid .1px #0900ac;
+}
+
+.card-text,
+.card-title {
+  font-family: 'Libre Franklin', sans-serif;
+  text-align: justify;
+}
+
 
  /* MEDIA QUERIES */
  @media only screen and (max-width: 975px) {
