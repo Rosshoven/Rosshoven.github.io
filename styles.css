@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   font-size: 16px;
-  font-family: 'Cinzel', serif;;
+  font-family: 'Cinzel', serif;
  }
 
 
@@ -163,6 +163,7 @@
    flex-direction: column;
    background-color:  antiquewhite;
    overflow: auto;
+   border-style: solid;
 }
 .logo {
   width: 45%;
@@ -183,7 +184,6 @@
 #right {
    grid-row: 1 / 5;
    grid-column: 3 / 4;
-   border-style: solid;
    font-size: 2em;
    border-top-right-radius: 20%;
    border-bottom-right-radius: 20%;
