@@ -340,4 +340,8 @@ div p a {
     margin-left: auto;
     margin-right: auto;
 }
+
+#projects {
+  margin-top: 20%;
+}
 }
