@@ -328,6 +328,7 @@ div p a {
   }
 }
 
+/* PHONE */
 @media only screen and (max-width: 320px) {
   .container {
     display: flex;
