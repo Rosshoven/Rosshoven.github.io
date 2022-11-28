@@ -278,6 +278,7 @@ div p a {
 .book {
   width: 100%;
   height: 60%;
+  box-shadow: 1px 1px 4px 1px cornsilk;;
 }
 
 .col, 
