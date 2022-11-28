@@ -335,7 +335,7 @@ div p a {
   .container h1 {
     display: flex;
     flex-wrap: wrap;
-    padding-top: 25%;
+    /* padding-top: 25%; */
     margin-top: 25%;
     margin-left: auto;
     margin-right: auto;
