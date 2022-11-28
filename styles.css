@@ -179,6 +179,7 @@
    grid-area: 2 / 2 / 5 / 3;
    border: solid 1px antiquewhite;
    font-size: 2em;
+   /* box-shadow: 1px 1px 4px 1px cornsilk; */
 }
 
 #right {
@@ -278,7 +279,7 @@ div p a {
 .book {
   width: 100%;
   height: 60%;
-  box-shadow: 1px 1px 4px 1px cornsilk;;
+  box-shadow: 1px 1px 4px 1px cornsilk;
 }
 
 .col, 
