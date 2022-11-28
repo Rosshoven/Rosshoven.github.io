@@ -4,7 +4,7 @@
 
     const beethoven = () => {
      let beethoven = getElementById('left').innerHTML;
-     beethoven = (./Images/Beethoven-Warhol.jpg);
+     beethoven = 
     }
 
 
