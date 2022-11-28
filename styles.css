@@ -331,11 +331,12 @@ div p a {
 }
 
 /* PHONE */
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 375px) {
   .container h1 {
     display: flex;
     flex-wrap: wrap;
     padding-top: 25%;
+    margin-top: 25%;
     margin-left: auto;
     margin-right: auto;
 }
