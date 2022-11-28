@@ -331,7 +331,7 @@ div p a {
 
 /* PHONE */
 @media only screen and (max-width: 320px) {
-  .container {
+  .container h1 {
     display: flex;
     flex-wrap: wrap;
     padding-top: 15%;
