@@ -310,13 +310,14 @@ div p a {
   }
 
   .container img {
-     margin: 2% 5% 2% 5%;
-      grid-area: 2 / 1 / 7 / 2;
+    margin: 2% 5% 2% 5%;
+    grid-area: 2 / 1 / 7 / 2;
   }
 
   .container h1 {
-      padding: 1% 2% 1% 2%;
-      grid-area: 1 / 1 / 7 / 2;
+    margin: 15% 5% 0% 5%;
+    padding: 1% 2% 1% 2%;
+    grid-area: 1 / 1 / 7 / 2;
   }
 
   button {
