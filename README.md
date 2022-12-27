@@ -6,6 +6,9 @@
 
 # Projects
 
+## Tic-Tac-Toe
+<li><a href="https://rosshoven.github.io/Tic-Tac-Toe/">Tic-Tac-Toe</a></li>
+
 ## Pacmen
  <li><a href="https://rosshoven.github.io/Pacmen-Exercise/">Pacmen</a></li>
 
