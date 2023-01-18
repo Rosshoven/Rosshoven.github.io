@@ -13,7 +13,7 @@
 <li><a href="https://github.com/Rosshoven/React-Form-w-Formik.git">React Form</a></li>
 
 ## ToDo List - React
-<li><a href="https://github.com/Rosshoven/ToDo-List-Set-State.git">React Form</a></li>
+<li><a href="https://github.com/Rosshoven/ToDo-List-Set-State.git">ToDo List</a></li>
 
 ## Pacmen
  <li><a href="https://rosshoven.github.io/Pacmen-Exercise/">Pacmen</a></li>
