@@ -228,11 +228,15 @@ div p a {
 
 /* EYES */
 .eyes {
-  position: absolute;
+  position: relative;
   top: 50%;
   transform: translateY(-50%);
   width: 100%;
   text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #14495e;
 }
 .eye {
   width: 240px;
@@ -248,7 +252,7 @@ div p a {
   width: 80px;
   height: 80px;
   background: #000;
-  position: absolute;
+  position: relative;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
